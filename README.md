@@ -13,8 +13,8 @@
 <hr />
 <br />
 
-## 🪄 Skill
-React, Express, NestJS, Prisma(MySQL) AWS  
+## 🪄 Skills
+React, Express, NestJS, Prisma(MySQL), AWS  
 <br />
 
 ## 📱 주요기능
